@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/RafaRoxxo/blob/output-contribuition-grid-snake.svg)
+!![snake gif](https://github.com/RafaRoxxo/RafaRoxxo/blob/output/github-contribution-grid-snake.svg)
