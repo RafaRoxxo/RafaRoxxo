@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Rafaela Roxo
 
-- 🐾 I’m currently learning HTML, CSS & Python
+- 🐾 I’m currently learning HTML, CSS & Javascript
 
 <div>
   <a href="https://github.com/RafaRoxxo">
@@ -24,4 +24,3 @@
   
 </div>
 
-![snake gif](https://github.com/RafaRoxxo/RafaRoxxo/blob/output/github-contribution-grid-snake.svg)
