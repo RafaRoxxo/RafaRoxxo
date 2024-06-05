@@ -2,13 +2,14 @@
 
 <p align="left"> 
   ## Olá, eu sou a Rafaela Roxo!
+  Estou cursando Análise e Desenvolvimentos de Sistemas na Uniasselvi :) 
 
 <p align="left">
   🦄 Linguagens: **HTML, CSS, JS**
 </p>
 
 <p align="left">
-  💌 Meus contatos: ⤵️
+  💌 Meus contatos aqui: ⤵️
 </p>
 
 <p align="left">
