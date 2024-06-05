@@ -1,18 +1,21 @@
-## Olá! Eu sou a Rafaela Roxo
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🐾 I’m currently learning HTML, CSS & Javascript
+<p align="left"> 
+  ## Olá, eu sou a Rafaela Roxo!
 
-<div>
-  <a href="https://github.com/RafaRoxxo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaRoxxo&show_icons=true&theme=jolly&include_all_commits=trye&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRoxxo&layout=compacts&langs_count=16&theme=jolly"/>
+<p align="left">
+  🦄 Linguagens: **HTML, CSS, JS**
+</p>
 
- 
-<div> 
- 
-  <a href="https://instagram.com/rafaroxxo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafalaroxo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rafaela-roxo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p align="left">
+  💌 Meus contatos: ⤵️
+</p>
 
+<p align="left">
+  <a href="#" title="Email">
+  <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=email&logoColor=white&link=rafaroxo@icloud.com" alt="Email"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaela-roxo" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaroxxo" alt="Instagram"/></a>
+</p>
